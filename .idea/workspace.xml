@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d70cef8-47b9-4d67-9c53-1f7824c314f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchingElement/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchingElement/FindDuplicateCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchingElement/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchingElement/SearchingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/LinkedList/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/LinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/SuperKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/currentThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/primeNumber.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ffUmvWxDoNzelns62eUC5Op5tq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FindDuplicateCount.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SearchingElement.executor": "Run",
+    "Application.TryCatch.executor": "Debug",
+    "Application.TwoSum.executor": "Run",
+    "Application.casting.executor": "Run",
+    "Application.currentThread.executor": "Run",
+    "Application.palindrom.executor": "Run",
+    "Application.primeNumber.executor": "Run",
+    "Application.solution.executor": "Run",
+    "Application.vari.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/my self/java/Practice/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Armstrong">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.Armstrong" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.Factorial" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.FibonacciSeries" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.palindrom" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.primeNumber" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.palindrom" />
+        <item itemvalue="Application.primeNumber" />
+        <item itemvalue="Application.FibonacciSeries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d70cef8-47b9-4d67-9c53-1f7824c314f5" name="Changes" comment="" />
+      <created>1714191787748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714191787748</updated>
+    </task>
+    <servers />
+  </component>
+</project>
